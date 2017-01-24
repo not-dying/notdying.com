@@ -1,0 +1,19 @@
+blockquote {
+  line-height: 1.25em;
+}
+
+body {
+  background-color: WhiteSmoke;
+  color: SlateGrey;
+  font-family: Georgia, serif;
+  font-size: 20px;
+}
+
+figcaption {
+  margin-left: 80px;
+}
+
+figure {
+  margin: 40px auto;
+  max-width: 640px;
+}
